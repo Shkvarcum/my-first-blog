@@ -1,4 +1,4 @@
-#!/home/skvarcum/virtualenv/myvenv/bin/python3
+#!/home/shkvarcum/PycharmProjects/my-first-blog/myvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
